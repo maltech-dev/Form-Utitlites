@@ -7,8 +7,7 @@ Useful plugins
 
 # Useful code for form inputs
 
-
-<!DOCTYPE html>
+ ` <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -49,5 +48,6 @@ Useful plugins
 </div>
 
 </body>
-</html>
+</html> `
+
 
